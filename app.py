@@ -70,7 +70,9 @@ if uploaded_file is not None:
         'Salary': st.slider('Salary', 3000, 10000, 5000)
     }
 
+
     # Encode input data using the same encoders
     for key, value in input_data.items():
         if key in le_dict:
-            input_data[key] = le_dict[key].
+            input_data[key] = le_dict[key].transform([value])[0]
+
