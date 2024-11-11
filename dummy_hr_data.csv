@@ -1,0 +1,101 @@
+Employee_ID,Age,Gender,Education_Level,Marital_Status,Years_with_Company,Performance_Score,Department,Job_Level,Salary,Turnover
+1,53,Female,High School,Single,10,3,Finance,3,"6,512",0
+2,39,Male,High School,Single,7,4,IT,2,"9,190",0
+3,32,Male,High School,Married,10,2,Finance,3,"4,256",1
+4,45,Female,High School,Single,3,4,Marketing,4,"6,376",1
+5,43,Male,Master,Married,2,3,HR,1,"8,645",0
+6,47,Male,High School,Married,9,1,IT,2,"8,262",0
+7,35,Male,Bachelor,Single,8,2,HR,2,"6,486",1
+8,35,Male,Bachelor,Single,13,1,IT,4,"6,584",1
+9,48,Male,Bachelor,Married,12,1,Finance,1,"4,396",1
+10,48,Female,Master,Single,10,2,IT,1,"6,637",1
+11,27,Female,High School,Married,7,4,Marketing,2,"6,330",0
+12,46,Female,High School,Married,9,1,Marketing,3,"5,703",1
+13,26,Male,High School,Married,4,3,IT,2,"3,470",0
+14,48,Male,Master,Married,13,1,IT,1,"8,131",1
+15,54,Male,Bachelor,Married,4,2,IT,4,"4,353",1
+16,26,Female,Bachelor,Single,1,2,IT,2,"5,783",1
+17,45,Male,High School,Single,8,2,Marketing,1,"5,831",1
+18,57,Male,Bachelor,Married,14,4,HR,2,"8,063",1
+19,36,Female,Bachelor,Married,14,1,IT,3,"3,357",0
+20,46,Male,Master,Single,12,4,IT,2,"6,019",0
+21,49,Female,Master,Single,3,4,Marketing,2,"3,667",1
+22,51,Female,Master,Married,7,2,Marketing,1,"7,468",1
+23,52,Female,Master,Single,12,2,Finance,1,"8,127",0
+24,40,Male,High School,Married,2,4,IT,1,"4,145",1
+25,39,Male,Master,Single,2,1,Finance,2,"8,467",1
+26,27,Male,Bachelor,Married,7,3,Marketing,3,"9,819",0
+27,31,Male,High School,Single,6,4,Marketing,4,"7,185",1
+28,45,Male,Bachelor,Married,3,1,HR,4,"6,719",1
+29,33,Male,Bachelor,Single,9,2,IT,1,"5,745",0
+30,42,Male,Bachelor,Single,10,2,Finance,1,"3,539",0
+31,28,Female,Master,Married,14,1,Marketing,2,"5,779",0
+32,49,Male,Master,Single,13,3,Marketing,4,"7,964",1
+33,38,Female,High School,Married,6,2,Finance,1,"7,136",0
+34,33,Male,High School,Single,10,2,HR,3,"7,835",0
+35,50,Male,Master,Married,10,2,Marketing,3,"6,775",0
+36,26,Male,Bachelor,Single,6,1,IT,1,"9,042",0
+37,44,Female,High School,Married,1,4,Marketing,1,"9,645",0
+38,52,Female,Master,Single,4,2,IT,4,"8,320",0
+39,31,Female,Master,Married,10,4,Finance,4,"8,024",1
+40,32,Female,Master,Single,6,3,IT,2,"9,132",1
+41,59,Male,Bachelor,Married,6,2,Finance,4,"5,508",0
+42,38,Female,Master,Married,11,2,IT,3,"5,779",0
+43,41,Male,Master,Married,12,3,Finance,3,"9,895",0
+44,28,Male,Master,Single,5,2,IT,1,"3,924",1
+45,26,Female,Master,Married,1,4,HR,4,"5,956",1
+46,30,Female,High School,Single,8,1,IT,2,"4,581",1
+47,28,Female,High School,Married,5,4,IT,3,"6,324",1
+48,53,Female,Master,Single,12,1,HR,3,"7,485",1
+49,42,Female,Bachelor,Married,12,1,Marketing,2,"8,713",1
+50,50,Female,High School,Single,12,4,Marketing,2,"3,255",1
+51,58,Female,Master,Single,5,4,IT,3,"7,804",1
+52,34,Female,High School,Married,7,4,HR,3,"4,838",1
+53,38,Male,High School,Single,4,4,IT,2,"4,944",0
+54,55,Female,Bachelor,Single,6,3,Finance,3,"9,593",0
+55,39,Female,Master,Married,13,2,Finance,1,"3,009",0
+56,32,Male,Master,Single,4,1,IT,1,"5,871",0
+57,38,Female,Bachelor,Single,14,4,Marketing,2,"3,797",1
+58,47,Male,Bachelor,Single,3,4,Marketing,4,"7,972",1
+59,45,Male,Master,Married,7,4,IT,2,"8,124",0
+60,40,Female,Master,Single,8,3,IT,2,"4,015",1
+61,42,Male,Bachelor,Married,4,4,Finance,4,"4,824",0
+62,48,Male,High School,Single,13,4,Marketing,4,"7,469",1
+63,50,Male,High School,Single,2,4,IT,4,"6,136",0
+64,49,Male,Bachelor,Single,12,2,Finance,1,"5,193",1
+65,53,Female,High School,Married,10,3,Marketing,3,"3,223",1
+66,39,Male,Bachelor,Single,14,4,HR,1,"8,358",0
+67,25,Female,High School,Single,3,1,Finance,3,"9,320",1
+68,49,Male,High School,Married,1,1,Marketing,1,"8,898",0
+69,31,Male,Master,Single,8,1,Marketing,3,"7,948",0
+70,33,Male,Master,Married,3,3,Finance,1,"7,158",0
+71,48,Male,High School,Married,12,3,HR,4,"8,336",0
+72,25,Female,High School,Single,10,1,Finance,2,"6,925",1
+73,32,Female,Master,Married,7,4,Marketing,1,"9,970",1
+74,48,Male,Master,Single,10,3,IT,3,"9,938",1
+75,35,Male,Master,Married,5,1,IT,4,"7,784",0
+76,41,Female,Bachelor,Married,10,1,Finance,1,"8,580",1
+77,32,Male,High School,Single,5,4,Marketing,1,"7,000",0
+78,59,Male,Master,Married,14,2,IT,4,"4,633",1
+79,59,Male,High School,Married,7,3,Marketing,1,"5,152",1
+80,57,Female,Bachelor,Married,9,4,Finance,2,"3,510",1
+81,29,Female,Bachelor,Married,12,1,IT,1,"3,384",0
+82,52,Female,Master,Married,5,1,Marketing,2,"3,404",1
+83,31,Male,Bachelor,Single,1,4,IT,2,"9,966",1
+84,33,Male,High School,Married,10,3,Finance,4,"7,613",0
+85,32,Female,Master,Single,10,2,Marketing,1,"7,571",1
+86,36,Female,High School,Married,1,2,IT,4,"5,000",0
+87,58,Female,High School,Single,2,1,Finance,1,"5,756",1
+88,57,Female,Bachelor,Single,14,3,IT,1,"4,668",0
+89,47,Male,Bachelor,Married,6,2,IT,3,"8,989",0
+90,48,Female,Bachelor,Married,9,3,HR,1,"9,914",1
+91,59,Male,Bachelor,Married,8,3,HR,4,"4,460",0
+92,46,Female,Bachelor,Single,13,1,Finance,2,"6,636",0
+93,51,Male,Master,Married,5,2,HR,1,"5,724",0
+94,59,Female,High School,Single,1,4,Finance,3,"7,809",0
+95,25,Female,High School,Single,13,1,HR,4,"7,178",0
+96,59,Female,High School,Single,7,2,IT,1,"8,264",0
+97,38,Female,High School,Married,5,2,Finance,4,"9,600",1
+98,27,Male,Bachelor,Married,6,2,Finance,3,"8,997",0
+99,25,Female,High School,Single,13,2,IT,3,"5,048",0
+100,29,Male,Master,Single,7,2,Finance,4,"7,146",1
